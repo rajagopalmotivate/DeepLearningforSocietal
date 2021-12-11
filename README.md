@@ -24,7 +24,7 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 
 
 
-## Lab 7    (Reference) CNN filter sizes, MaxPool, Transfer Learning, Fine tunning ,  Data Augmention, Call backs
+## Lab 7    (Reference) CNN filter sizes, MaxPool, Transfer Learning, Fine tunning ,  Data Augmention, Call backs      (60 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/fchollet-dl-for-computer-vision.ipynb
 
 ## Lab 8    CNN from pre-trained . Transfer Learning and Fine Tunning    (Inception)
@@ -48,6 +48,10 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 
 ## Lab 12 (Reference) ConvTranspose Image-Image Translation  (60 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/fChollect-image-segmentation.ipynb
+
+
+## Lab 12 (Reference) Modern convnet architectures  Residual , Normalization, Seperable Conv
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/fChollectmodern-convnet-architecture-patterns.ipynb
 
 ## Lab 12   Xception network design    (30 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%205%20image_classification_from_scratch.ipynb
