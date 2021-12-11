@@ -46,7 +46,7 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 ## Lab 11  (medical) xray Sep Conv Blocks  (60 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/xray_classification_with_tpus.ipynb
 
-## Lab 12 (Reference) ConvTranspose Image-Image Translation  (60 min GPU)
+## Lab 12 (Reference) ConvTranspose Image-Image Translation  (180 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/fChollect-image-segmentation.ipynb
 
 
@@ -59,3 +59,6 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 
 ## Lab 13   U-net Xception image segmention    (30 min GPU)
  https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/UNetXception_image_segmentation.ipynb
+ 
+ 
+ 
