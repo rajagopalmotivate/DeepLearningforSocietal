@@ -16,13 +16,13 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%203%20step%201.ipynb
 
 
-## Lab 4   Denoise auto encoder    (20 min GPU)
+## Lab 4   Denoise auto encoder    (60 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/autoencoder_denoise.ipynb
 
 
-## Lab 5   Xception network design    (20 min GPU)
+## Lab 5   Xception network design    (30 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%205%20image_classification_from_scratch.ipynb
 
 
-## Lab 6   U-net Xception image segmention    (20 min GPU)
+## Lab 6   U-net Xception image segmention    (30 min GPU)
  https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/UNetXception_image_segmentation.ipynb
