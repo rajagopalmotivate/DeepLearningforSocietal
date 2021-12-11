@@ -16,6 +16,8 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 ## Lab 5   How to use sequential API 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%203%20step%201.ipynb
 
+## Lab 5  Conv-Dense approach 
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/cifar_cnn.ipynb
 
 ## Lab 6    CNN from scratch 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/CNN%20from%20scratch%20image_classification__cats.ipynb
