@@ -13,7 +13,7 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab2-Computer-Vision.ipynb
 
 
-## Lab 5   How to use sequential API 
+## Lab 5  (Reference) How to use sequential API  
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%203%20step%201.ipynb
 
 ## Lab 5  Conv-Dense approach 
@@ -23,25 +23,33 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/CNN%20from%20scratch%20image_classification__cats.ipynb
 
 
-## Lab 7    CNN from pre-trained  (Inception)
+
+## Lab 7    (Reference) CNN filter sizes, MaxPool, Transfer Learning, Fine tunning ,  Data Augmention, Call backs
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/fchollet-dl-for-computer-vision.ipynb
+
+## Lab 8    CNN from pre-trained . Transfer Learning and Fine Tunning    (Inception)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/CNN_Pretrained_model.ipynb
 
-## Lab 7    CNN from pre-trained. Transfer Learning and Fine Tunning   (MobileNet)  
+## Lab 8    CNN from pre-trained. Transfer Learning and Fine Tunning   (MobileNet)  
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/transfer_learning%20and%20Fine%20Tunning.ipynb
 
-## Lab 8   How to use Functional API 
+
+## Lab 9   How to use Functional API 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%203%20step%201.ipynb
 
 
-## Lab 9   Denoise auto encoder    (60 min GPU)
+
+## Lab 10   Denoise auto encoder    (60 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/autoencoder_denoise.ipynb
 
-## Lab 10  (medical) xray Sep Conv Blocks  (60 min GPU)
+
+## Lab 11  (medical) xray Sep Conv Blocks  (60 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/xray_classification_with_tpus.ipynb
 
-## Lab 11   Xception network design    (30 min GPU)
+
+## Lab 12   Xception network design    (30 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%205%20image_classification_from_scratch.ipynb
 
 
-## Lab 12   U-net Xception image segmention    (30 min GPU)
+## Lab 13   U-net Xception image segmention    (30 min GPU)
  https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/UNetXception_image_segmentation.ipynb
