@@ -12,5 +12,9 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 ## Lab 3   How to use sequential API
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%203%20step%201.ipynb
 
-## Lab 4   Denoise auto encoder
+## Lab 4   Denoise auto encoder    (20 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/autoencoder_denoise.ipynb
+
+
+## Lab 5   Xception network design    (20 min GPU)
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%205%20image_classification_from_scratch.ipynb
