@@ -6,16 +6,24 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 ## Lab 2 Deep Learning learns a formula
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Play_2_ClesiusLearnHello_Callback_TensorBoard.ipynb
 
-## Lab 1 Try few models 
+## Lab 3 Try few models 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%201%20My%20first%20experiment.ipynb
 
-## Lab 2  A detailed project - end to end (MNIST)
+## Lab 4  A detailed project - end to end (MNIST)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab2-Computer-Vision.ipynb
 
 
-
-## Lab 3a   How to use sequential API 
+## Lab 5   How to use sequential API 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%203%20step%201.ipynb
+
+
+## Lab 6    CNN from scratch 
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/CNN%20from%20scratch%20image_classification__cats.ipynb
+
+
+## Lab 7    CNN from pre-trained   
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/CNN_Pretrained_model.ipynb
+
 
 ## Lab 3b   How to use Functional API 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%203%20step%201.ipynb
