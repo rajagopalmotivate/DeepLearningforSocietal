@@ -3,6 +3,9 @@
 ## Lab 1 My 1st Deep Learning project  
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/01_MNIST_Predict_with_Dense.ipynb
 
+## Lab 2 Deep Learning learns a formula
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Play_2_ClesiusLearnHello_Callback_TensorBoard.ipynb
+
 ## Lab 1 Try few models 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%201%20My%20first%20experiment.ipynb
 
