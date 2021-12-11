@@ -1,7 +1,7 @@
 # Deep Learning  
 
 
-## Lab 2  A detailed project - end to end
+## Lab 2  A detailed project - end to end (MNIST)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab2-Computer-Vision.ipynb
 
 
