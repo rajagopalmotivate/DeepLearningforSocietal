@@ -60,5 +60,5 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 ## Lab 13   U-net Xception image segmention    (30 min GPU)
  https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/UNetXception_image_segmentation.ipynb
  
- 
- 
+ ## Lab 15   (NLU) BERT This AI understands science laws    (30 min GPU)
+ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/This_AI_understands_Newtons_laws_ver3.ipynb
