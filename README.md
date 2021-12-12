@@ -43,6 +43,12 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/autoencoder_denoise.ipynb
 
 
+
+## Lab 11   Vision Transformer Fine tune      (20 min GPU)
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Vision_Transformers_apply.ipynb
+
+
+
 ## Lab 11  (medical) xray Sep Conv Blocks  (60 min GPU)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/xray_classification_with_tpus.ipynb
 
