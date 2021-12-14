@@ -6,8 +6,7 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 ## Lab 2 Deep Learning learns a formula
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Play_2_ClesiusLearnHello_Callback_TensorBoard.ipynb
 
-## Lab 3 Try few models 
-https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%201%20My%20first%20experiment.ipynb
+## Lab 3 Team Contest: How many layers can you add?  https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%203%20Contest%20My%20first%20experiment.ipynb
 
 ## Lab 4  A detailed project - end to end (MNIST)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab2-Computer-Vision.ipynb
@@ -19,7 +18,7 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 ## Lab 5  Conv-Dense approach 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/cifar_cnn.ipynb
 
-## Lab 6    CNN from scratch 
+## Lab 6   (TF1.0) CNN from scratch 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/CNN%20from%20scratch%20image_classification__cats.ipynb
 
 
