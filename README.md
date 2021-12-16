@@ -12,7 +12,7 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab2-Computer-Vision.ipynb
 
 
-## Lab 5  (Reference) How to use sequential API  
+## Lab 4.5  (Reference) How to use sequential API  
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Lab%203%20step%201.ipynb
 
 ## Lab 5  Conv-Dense approach 
@@ -29,7 +29,7 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 ## Lab 8    CNN from pre-trained . Transfer Learning and Fine Tunning    (Inception)
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/CNN_Pretrained_model.ipynb
 
-## Lab 8    CNN from pre-trained. Transfer Learning and Fine Tunning   (MobileNet)  
+## Lab 8.5    CNN from pre-trained. Transfer Learning and Fine Tunning   (MobileNet)  
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/transfer_learning%20and%20Fine%20Tunning.ipynb
 
 
