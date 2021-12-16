@@ -70,3 +70,6 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
  
   ## Lab 16   (NLG) GPT2 Mental health app    (30 min GPU)
  https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Mental_health_Finetune_GPT_2.ipynb
+ 
+  ## Lab 17   my Inception inspired brain    
+ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/myInceptionstyleBrain.ipynb
