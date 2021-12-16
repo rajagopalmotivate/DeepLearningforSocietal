@@ -73,3 +73,7 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
  
   ## Lab 17   my Inception inspired brain    
  https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/myInceptionstyleBrain.ipynb
+
+
+  ## Lab 18   VAE Imagine new fruits 
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_Add_removes_Feature_from_different_Fruits_VAE_Generator_Good.ipynb
