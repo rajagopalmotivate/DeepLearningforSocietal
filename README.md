@@ -78,3 +78,10 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
   ## Lab 18   VAE Imagine new fruits 
 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_Copy_of_Add_removes_Feature_from_different_Fruits_VAE_Generator_Good.ipynb
+
+
+  ## Lab 20   Transformers in language 
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/examples/nlp/ipynb/text_classification_with_transformer.ipynb
+
+  ## Lab 20   Transformers in image classification 
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/examples/vision/ipynb/image_classification_with_vision_transformer.ipynb
