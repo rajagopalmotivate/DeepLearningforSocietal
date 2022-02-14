@@ -1,4 +1,7 @@
-# Deep Learning  
+# Deep Learning for social good
+
+# Website: Deep Learning for social good
+## https://sites.google.com/view/deeplearning4social/
 
 ## Lab 1 My 1st Deep Learning project  
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/01_MNIST_Predict_with_Dense.ipynb
