@@ -84,7 +84,8 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_Copy_of_Add_removes_Feature_from_different_Fruits_VAE_Generator_Good.ipynb
 
   ## Lab 19   GAN 
-https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_DCGAN_Mnist_ver1.ipynb
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_DCGAN_Mnist_ver1.ipynb (old one, please use new link)
+https://github.com/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_dcgan_overriding_train_step.ipynb (new link, 2023)
 
   ## Lab 20   Transformers in language 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/examples/nlp/ipynb/text_classification_with_transformer.ipynb
