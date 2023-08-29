@@ -69,7 +69,8 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
  https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/UNetXception_image_segmentation.ipynb
  
  ## Lab 15   (NLU) BERT This AI understands science laws    (30 min GPU)
- https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/This_AI_understands_Newtons_laws_ver3.ipynb
+ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/This_AI_understands_Newtons_laws_ver3.ipynb (old)
+ https://github.com/rajagopalmotivate/DeepLearningforSocietal/blob/main/This_AI_understands_Newtons_laws_ver3.ipynb (new in 2023)
  
   ## Lab 16   (NLG) GPT2 Mental health app    (30 min GPU)
  https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Mental_health_Finetune_GPT_2.ipynb
