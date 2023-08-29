@@ -90,6 +90,7 @@ https://github.com/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_d
 
   ## Lab 20   Transformers in language 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/examples/nlp/ipynb/text_classification_with_transformer.ipynb
+https://github.com/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_Copy_of_text_classification_with_transformer.ipynb (2023 new)
 
   ## Lab 21   Transformers in image classification 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/examples/vision/ipynb/image_classification_with_vision_transformer.ipynb
