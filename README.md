@@ -82,7 +82,7 @@ https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSociet
 
   ## Lab 18   VAE Imagine new fruits 
 
-https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_Copy_of_Add_removes_Feature_from_different_Fruits_VAE_Generator_Good.ipynb
+https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_Copy_of_Add_removes_Feature_from_different_Fruits_VAE_Generator_Good.ipynb (outdated library in 2023)
 
   ## Lab 19   GAN 
 https://colab.research.google.com/github/rajagopalmotivate/DeepLearningforSocietal/blob/main/Copy_of_DCGAN_Mnist_ver1.ipynb (old one, please use new link)
